@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/nisargtk/My%20Project/_apis/build/status/nisargtk.pipelines-java?branchName=main)](https://dev.azure.com/nisargtk/My%20Project/_build/latest?definitionId=11&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
